@@ -16,7 +16,7 @@ public class App
         //String[] months = new String[12];
         final String[] months = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 
-        System.out.println( "Please enter the number of the month: " );
+        System.out.print( "Please enter the number of the month: " );
         int choice = sc.nextInt();
 
         String selection = "[Invalid]";
